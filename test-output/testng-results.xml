@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-06-21T15:19:32 IST" name="Default suite" finished-at="2025-06-21T15:19:39 IST" duration-ms="6416">
+    <groups>
+    </groups>
+    <test started-at="2025-06-21T15:19:32 IST" name="Default test" finished-at="2025-06-21T15:19:39 IST" duration-ms="6416">
+      <class name="api.test.Usertestcases">
+        <test-method is-config="true" signature="setupData()[pri:0, instance:api.test.Usertestcases@f78a47e]" started-at="2025-06-21T15:19:33 IST" name="setupData" finished-at="2025-06-21T15:19:33 IST" duration-ms="524" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupData -->
+        <test-method signature="postuser()[pri:1, instance:api.test.Usertestcases@f78a47e]" started-at="2025-06-21T15:19:33 IST" name="postuser" finished-at="2025-06-21T15:19:38 IST" duration-ms="4481" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postuser -->
+        <test-method signature="Getuser()[pri:2, instance:api.test.Usertestcases@f78a47e]" started-at="2025-06-21T15:19:38 IST" name="Getuser" finished-at="2025-06-21T15:19:39 IST" duration-ms="1291" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Getuser -->
+      </class> <!-- api.test.Usertestcases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
